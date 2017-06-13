@@ -4,10 +4,11 @@
 Documents
 -------------
 
-StackEdit stores your documents in your browser, which means all your documents are automatically saved locally and are accessible **offline!**
+
 
 > **Installation:**
 Run this command on a terminal
+
 >   <code> git clone https://github.com/abdallahazmi/test.git </code> 
 
 >  <code>composer install </code>
